@@ -1,5 +1,7 @@
 # Data-Analysis-and-ML-Approaches-for-Forecasting-Vessel-Carbon-Emission
 
+![Machine Learning](Machine Learning.jpeg)
+
 ## Languages:
 - **Python**
 
