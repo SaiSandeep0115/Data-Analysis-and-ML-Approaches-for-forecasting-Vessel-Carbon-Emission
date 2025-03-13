@@ -63,7 +63,7 @@ The dataset includes historical records of vessel operations, with key features 
 3. **Other Models**:
    - KNN is good for regression based on neighbors and SVR for complex regression in high-dimensional data.
    
-5. **Deep Learning Models ()**:
+5. **Deep Learning Models**:
    - Custom DNNs and TabNet for capturing complex information and LSTM networks for sequential dependencies.
   
 
